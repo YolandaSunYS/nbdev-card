@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-card"
+  site-url: "https://YolandaSunYS.github.io/nbdev-card"
+  description: "a deck of card"
+  repo-branch: main
+  repo-url: "https://github.com/YolandaSunYS/nbdev-card"
